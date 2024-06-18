@@ -4,8 +4,8 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "gutaooo.dev/project-golang/cmd"
+import "fmt"
 
 func main() {
-	cmd.Execute()
+	fmt.Println("hello")
 }
